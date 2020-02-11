@@ -41,7 +41,7 @@
         "coverjs": "0.0.x",
         "bunyip": "https://github.com/jayarjo/bunyip/tarball/master",
         "dateformat": "1.x",
-        "request": "2.25.x",
+        "request": "2.88.x",
         "async": "0.2.x"
     }
 }
